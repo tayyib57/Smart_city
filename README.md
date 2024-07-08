@@ -1,6 +1,6 @@
 Watch the traffic detection video:
 <video width="600" controls>
-  <source src="https://raw.githubusercontent.com/tayyib57/Smart_city/main/trafic%20detection.mov" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/tayyib57/Smart_city/main/trafic%20detection.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 
